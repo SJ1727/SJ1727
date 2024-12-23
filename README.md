@@ -1,5 +1,5 @@
 <h1 align="center">
-Savle
+Salve
 </h1>
 <p align="center">
 I'm a 17-year-old A-level student from the UK, based near Cambridge. I'm currently studying Mathematics, Further Mathematics, Computer Science, and Physics, and I plan to attend university in 2025. Most of my projects focus on machine learning.
